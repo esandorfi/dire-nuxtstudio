@@ -9,7 +9,12 @@
   },
   "devDependencies": {
     "@nuxthq/studio": "^2.2.1",
+    "@primevue/nuxt-module": "^4.2.4",
     "content-wind": "latest",
     "nuxt": "latest"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.2.4",
+    "primevue": "^4.2.4"
   }
 }

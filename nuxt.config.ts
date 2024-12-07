@@ -1,9 +1,20 @@
+import Aura from "@primevue/themes/aura";
+
 export default defineNuxtConfig({
-  extends: 'content-wind',
+  extends: "content-wind",
   routeRules: {
-    '/': { prerender: true }
+    "/": {prerender: true},
   },
-  modules: [
-    '@nuxthq/studio'
-  ]
-})
+  modules: ["@nuxthq/studio", "@primevue/nuxt-module"],
+  primevue: {
+    autoImport: false,
+    components: {
+      include: ["Button"],
+    },
+    options: {
+      theme: {
+        preset: Aura,
+      },
+    },
+  },
+});
