@@ -1,0 +1,1 @@
+import t from"./Cim1XU5m.js";import{k as o,c as r,e as c,i as n}from"./B3uo2nDq.js";const s={};function a(i,p,_,f,l,m){const e=t;return r(),c("div",null,[n(e,{label:"Verify"})])}const $=o(s,[["render",a]]);export{$ as default};
