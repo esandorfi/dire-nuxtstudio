@@ -1,0 +1,36 @@
+# La lecture en scène
+
+## les pratiques de la lecture à haute voix
+
+Lire à haute voix c’est l’art de servir le texte d’un auteur. Il s’agira de se mouvoir avec justesse et fluidité dans la matière des mots, d’articuler un texte, de laisser résonner le sens et l’imaginaire tout en engageant le corps dans un espace. C’est une histoire de rencontres, de livres et d’un public.
+
+## objectifs
+
+- Percevoir les enjeux d’une lecture à haute voix
+- Prendre conscience de l’attitude corporelle, de la voix, de l’énergie, de l’adresse au public
+- Connaître les outils qui permettent de fabriquer une lecture en scène juste et ample
+
+## programme de formation
+
+- La pratique corporelle et vocale
+  - Travail sur le souffle, l’utilisation de la voix et la diction
+  - Travail sur le regard, la concentration, l’écoute et la présence
+  - La résonance des mots et les mouvements du corps dans un espace
+  - La posture du lecteur : devant un pupitre, assis, texte en main, en chœur…
+- La lecture d’un texte : de l’écriture d’un auteur à la voix d’un lecteur
+  - L’architecture du texte : le travail à la table
+  - Le rôle des images suscitées par le texte : imaginaire et émotion
+  - La ponctuation, le rythme et le rôle du silence dans une lecture
+  - Mises en situation avec des lectures en solo, en duo et en chœur
+- La lecture en scène
+  - Réfléchir sur ce que signifie « une bonne lecture »
+  - Construire un montage de textes ou une thématique suivant le public concerné
+  - L’espace scénique, l’adresse au public et l’engagement du lecteur
+
+## public
+
+La formation est ouverte à tous les acteurs du livre : bibliothécaires, auteurs, traducteurs, animateurs, comédiens...
+
+## La pédagogie
+
+Alternance d’apports théoriques et de mises en situation grâce à de nombreux exercices individuels et collectifs liés à la pratique théâtrale. L’échange et le partage rythment la formation et facilitent l’utilisation des outils abordés dans la pratique professionnelle des participants.
