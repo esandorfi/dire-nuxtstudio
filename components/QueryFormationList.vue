@@ -1,9 +1,26 @@
 <script lang="ts" setup>
 const { navigation } = useContent()
+const content = await queryContent('formations').where({ _path: { $not: '/formations' } }).find()
 const appConfig = useAppConfig()
+
+
 </script>
 
 <template>
+
+    <ul>
+        <li v-for="item of content" :key="item._path">
+            <NuxtLink :to="item._path" active-class="bg-red-100" class="mr-6">
+                <strong>{{ item.title }}</strong><br>
+                {{ item?.description }}<br>
+                {{ item?.extra }}
+            </NuxtLink>
+
+
+        </li>
+    </ul>
+
+
     <div class="flex justify-between md:max-w-5xl px-4 py-4 mx-auto sm:px-8">
         <div v-if="appConfig.site?.name" class="text-gray-700 dark:text-gray-200">
             <strong>{{ appConfig.site.name }}</strong>
@@ -12,7 +29,7 @@ const appConfig = useAppConfig()
         <div class="text-gray-700 dark:text-gray-200">
             <NuxtLink v-for="link of navigation" :key="link._path" :to="link._path" active-class="font-bold"
                 class="mr-6">
-                {{ link.title }} {{ link.layout }}
+                {{ link.title }}
             </NuxtLink>
         </div>
         <!-- Social icons & Color Mode -->

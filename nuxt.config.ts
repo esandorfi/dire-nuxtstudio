@@ -1,6 +1,7 @@
 import Aura from "@primevue/themes/aura";
 
 export default defineNuxtConfig({
+  compatibilityDate: "2024-12-08",
   extends: "content-wind",
   routeRules: {
     "/": {prerender: true},
@@ -9,7 +10,7 @@ export default defineNuxtConfig({
   primevue: {
     autoImport: false,
     components: {
-      include: ["Button"],
+      include: ["Button", "Menubar", "Avatar", "Badge", "InputText"],
     },
     options: {
       theme: {
