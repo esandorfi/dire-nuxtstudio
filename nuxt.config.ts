@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   routeRules: {
     "/": {prerender: true},
   },
-  modules: ["@nuxthq/studio", "@primevue/nuxt-module"],
+  modules: ["@nuxthq/studio", "@primevue/nuxt-module", "@nuxt/image"],
   primevue: {
     autoImport: false,
     components: {

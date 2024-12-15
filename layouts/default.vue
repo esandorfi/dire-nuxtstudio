@@ -7,5 +7,5 @@
             <slot />
         </main>
     </div>
-
+    <Footer></Footer>
 </template>

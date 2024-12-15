@@ -12,7 +12,8 @@
                     class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
                     <slot name="title" />
                 </h1>
-                <p class="max-w-2xl mb-6 font-semibold text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
+                <p
+                    class="max-w-4xl mb-6 text-2xl md:text-4xl font-extrabold tracking-tight leading-none dark:text-white">
                     <slot name="description" />
                 </p>
 

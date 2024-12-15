@@ -8,6 +8,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxt/image": "1.8.1",
     "@nuxthq/studio": "^2.2.1",
     "@primevue/nuxt-module": "^4.2.4",
     "content-wind": "latest",

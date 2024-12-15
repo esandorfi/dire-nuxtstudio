@@ -12,6 +12,7 @@ import HomeLinks from '~/components/HomeLinks.vue';
             </slot>
             <HomeLinks></HomeLinks>
         </main>
-        <Footer></Footer>
+
     </div>
+    <Footer></Footer>
 </template>
