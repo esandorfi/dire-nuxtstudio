@@ -1,1 +1,0 @@
-import{k as o,c,e as n,f as e,Y as s}from"./DGid12x2.js";const r={},a={class:"not-prose"},l={class:"text-4xl md:text-6xl pb-0 pt-0 mt-0 mb-0"},d={class:"text-xl md:text-3xl font-bold md:pt-2"};function _(t,i){return c(),n("section",a,[e("h1",l,[s(t.$slots,"default")]),e("div",d,[s(t.$slots,"description")])])}const m=o(r,[["render",_]]);export{m as default};
