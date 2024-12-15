@@ -1,0 +1,3 @@
+<template>
+    <QueryFormationList></QueryFormationList>
+</template>
