@@ -30,7 +30,7 @@ const appConfig = useAppConfig()
             {{ appConfig.site.name }}
         </div>
         <!-- Navigation -->
-        <div class="text-gray-700 dark:text-gray-200 inline-flex items-center justify-center">
+        <div class="hidden md:inline-flex text-gray-700 dark:text-gray-200 items-center justify-center">
             <NuxtLink v-for="link of navigation" :key="link._path" :to="link._path" active-class="font-bold"
                 class="mr-6 ">
                 <span v-if="link._path === '/'">
